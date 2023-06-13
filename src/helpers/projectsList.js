@@ -8,6 +8,8 @@ import project04 from "./../img/projects/04.png";
 
 import project05 from "./../img/projects/05.png";
 
+import project06 from "./../img/projects/06.png";
+
 
 const projects = [
 	{
@@ -23,6 +25,13 @@ const projects = [
 		skills: 'React, HTML, SCSS, JS',
 		gitHubLink: 'https://github.com/Sergey-web-lab/pizza-shop',
 		gitHubPagesLink: 'https://sergey-web-lab.github.io/pizza-shop/',
+	},
+	{
+		title: 'Приложение "Список дел" на TypeScript',
+		img: project06,
+		skills: 'React, TypeScript, SCSS',
+		gitHubLink: 'https://github.com/Sergey-web-lab/todo-ts',
+		gitHubPagesLink: 'https://sergey-web-lab.github.io/todo-ts/',
 	},
 	{
 		title: 'Игра "Вопрос-ответ"',
