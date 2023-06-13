@@ -42,7 +42,7 @@ const Skills = () => {
             <li>Git</li>
             <li>Webpack</li>
             <li>Node.js и NPM</li>
-            <li>Gulp</li>
+            <li>Gulp / Yarn</li>
           </ul>
         </div>
 

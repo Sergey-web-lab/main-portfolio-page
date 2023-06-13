@@ -22,6 +22,7 @@ const projects = [
 		img: project02,
 		skills: 'React, HTML, SCSS, JS',
 		gitHubLink: 'https://github.com/Sergey-web-lab/pizza-shop',
+		gitHubPagesLink: 'https://sergey-web-lab.github.io/pizza-shop/',
 	},
 	{
 		title: 'Игра "Вопрос-ответ"',
